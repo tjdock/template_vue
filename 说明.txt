@@ -1,0 +1,28 @@
+https://github.com/vuejs/vue-cli
+
+
+npm install -g @vue/cli
+vue create my-project
+//选择第二个，并选择Router，Vuex，Css-Preprocessor(Scss)，eslint prettier
+
+
+npm run serve
+npm run build
+
+
+http
+npm i --save axios
+
+router
+//npm install --save vue-router
+
+vuex
+//npm install --save vuex
+教程中用的types.js防止名字冲突
+
+
+
+https://github.com/axios/axios
+npm i --save axios
+
+npm i --save vuelidate
